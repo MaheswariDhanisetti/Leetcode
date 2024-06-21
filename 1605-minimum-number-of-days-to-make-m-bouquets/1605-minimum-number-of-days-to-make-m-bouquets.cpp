@@ -1,44 +1,40 @@
 class Solution {
-public:
-    int minDays(vector<int>& bloomDay, int m, int k) {
-        if ((long long)m * k > bloomDay.size()) {
-            return -1;
-        }
+private:
+    bool canMakeBouquets(const vector<int>& bloomDay, int m, int k, int days) {
+        int bouquets = 0, flowers = 0;
 
-        int low = 1, high = 1e9;
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-
-            if (canMakeBouquets(bloomDay, m, k, mid)) {
-                high = mid;
+        for (int bloom : bloomDay) {
+            if (bloom <= days) {
+                flowers++;
+                if (flowers == k) {
+                    bouquets++;
+                    flowers = 0;
+                }
             } else {
-                low = mid + 1;
+                flowers = 0;
             }
+            if (bouquets >= m) return true;
         }
 
-        return low;
+        return bouquets >= m;
     }
 
-private:
-    bool canMakeBouquets(vector<int>& bloomDay, int m, int k, int day) {
-        int total = 0;
-        for (int i = 0; i < bloomDay.size(); i++) {
-            int count = 0;
-            while (i < bloomDay.size() && count < k && bloomDay[i] <= day) {
-                count++;
-                i++;
-            }
+public:
+    int minDays(vector<int>& b, int m, int k) {
+        if(b.size()<(long long)m*k) return -1;
+        int st=*min_element(b.begin(),b.end());
+        int end=*max_element(b.begin(),b.end());
+        int mid;
+        while(st<=end){
 
-            if (count == k) {
-                total++;
-                i--;
-            }
-
-            if (total >= m) {
-                return true;
+            mid=st+(end-st)/2;
+            if (canMakeBouquets(b, m, k, mid)) {
+                end = mid-1; 
+            } else {
+                st = mid + 1;
             }
         }
-
-        return false;
+        return st;
+        
     }
 };
