@@ -22,7 +22,7 @@ public:
 
         int width= maxcol-mincol+1;
         int height= maxrow-minrow+1;
-        cout<<width*height;
+        
         return width*height;
     }
 };
