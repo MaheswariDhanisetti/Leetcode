@@ -1,41 +1,28 @@
 class Solution {
 public:
     string tictactoe(vector<vector<int>>& moves) {
-        // Define all possible winning combinations
-        vector<vector<int>> winner{{0,1,2},
-                                    {3,4,5},
-                                    {6,7,8},
-                                    {0,3,6},
-                                    {1,4,7},
-                                    {2,5,8},
-                                    {0,4,8},
-                                    {2,4,6}};
-        // Initialize the board as a 1D vector with 9 empty strings
-        vector<string> pos(9, "");
-        bool yesa = true;
-
-        // Populate the board with the moves
-        for(int i = 0; i < moves.size(); i++) {
-            int idx = moves[i][0] * 3 + moves[i][1];
-            if(yesa) {
-                pos[idx] = "A";
-                yesa = false;
-            } else {
-                pos[idx] = "B";
-                yesa = true;
-            }
+        vector<vector<char>>b(3,vector<char>(3,' '));
+        char curr='x';
+        for(int i=0;i<moves.size();i++){
+            b[moves[i][0]][moves[i][1]]=curr;
+            (curr=='x')?curr='0':curr='x';
         }
 
-        // Check for a winner
-        for(int i = 0; i < 8; i++) {
-            if((pos[winner[i][0]] != "" || pos[winner[i][1]] != "" || pos[winner[i][2]] != "") 
-                && (pos[winner[i][0]] == pos[winner[i][1]]) 
-                && (pos[winner[i][1]] == pos[winner[i][2]])) {
-                return pos[winner[i][0]];
-            }
+        //checking horizontally
+        for(int i=0;i<b.size();i++){
+            if(b[i][0]!=' ' && b[i][0]==b[i][1] && b[i][1]==b[i][2]) return (b[i][0]=='x')?"A":"B";
         }
 
-        // Determine if the game is a draw or still pending
-        return moves.size() == 9 ? "Draw" : "Pending";
+        //checking vertically
+        for(int j=0;j<b.size();j++){
+            if(b[0][j]!=' ' && b[0][j]==b[1][j] && b[1][j]==b[2][j]) return (b[0][j]=='x')?"A":"B";
+        }
+
+        //checking diagonally
+        if(b[0][0]!=' '  && b[0][0]==b[1][1] && b[1][1]==b[2][2]) return (b[0][0]=='x')?"A":"B";
+        if(b[0][2]!=' ' && b[0][2]==b[1][1] && b[1][1]==b[2][0]) return (b[2][0]=='x')?"A":"B";
+
+
+        return (moves.size()==9)?"Draw":"Pending";
     }
 };
