@@ -2,31 +2,31 @@ class Solution {
 public:
     string reverseParentheses(string s) {
         
-       stack<char> stack;
+       stack<char> st;
         for (int i = 0; i < s.length(); i++) {
-            char c = s[i];
+            char curr= s[i];
             
-            if (c == ')') {
+            if (curr== ')') {
                 string rev = "";
-                while (!stack.empty() && stack.top() != '(') {
-                    rev += stack.top();
-                    stack.pop();
+                while (!st.empty() && st.top() != '(') {
+                    rev += st.top();
+                    st.pop();
                 }
-                if (!stack.empty()) {
-                    stack.pop(); // pop the opening bracket
+                if (!st.empty()) {
+                    st.pop();
                 }
                 for (int j = 0; j < rev.length(); j++) {
-                    stack.push(rev[j]);
+                    st.push(rev[j]);
                 }
             } else {
-                stack.push(c);
+                st.push(curr);
             }
         }
 
         string result = "";
-        while (!stack.empty()) {
-            result = stack.top() + result;
-            stack.pop();
+        while (!st.empty()) {
+            result = st.top() + result;
+            st.pop();
         }
         return result;
     }
