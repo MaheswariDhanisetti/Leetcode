@@ -14,22 +14,24 @@ public:
         
         stack<char>st;
         string sub1,sub2;
-        int ans=0;
+        int ans=0,v1,v2;
+        string s1,s2;
 
         if(x>y){
-            findMax(s,ans,x,"ab",st);
-        
-            string temp="";
-            while(!st.empty()) {
-                temp+=st.top();
-                st.pop();
-            }
-            reverse(temp.begin(),temp.end());
-            findMax(temp,ans,y,"ba",st);
+            v1=x;
+            s1="ab";
+            v2=y;
+            s2="ba";
         }
-
         else{
-            findMax(s,ans,y,"ba",st);
+            v1=y;
+            v2=x;
+            s1="ba";
+            s2="ab";
+        }
+
+       
+            findMax(s,ans,v1,s1,st);
         
             string temp="";
             while(!st.empty()) {
@@ -37,11 +39,8 @@ public:
                 st.pop();
             }
             reverse(temp.begin(),temp.end());
-            findMax(temp,ans,x,"ab",st);
-        }
-
-        
-
+            findMax(temp,ans,v2,s2,st);
+      
         return ans;
     }
 };
