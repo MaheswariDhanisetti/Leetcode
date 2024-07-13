@@ -39,6 +39,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1803-average-waiting-time](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1803-average-waiting-time](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +92,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
