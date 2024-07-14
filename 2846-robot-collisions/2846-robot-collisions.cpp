@@ -1,54 +1,48 @@
 class Solution {
 public:
-    vector<int> survivedRobotsHealths(vector<int>& positions, vector<int>& healths, string directions) {
-        int n = positions.size();
-        vector<vector<int>> robots;
-
-        for (int i = 0; i < n; ++i) {
-            robots.push_back({positions[i], healths[i], directions[i], i});
+    vector<int> survivedRobotsHealths(vector<int>& positions, vector<int>& h, string d) {
+        
+        unordered_map<int,int>mp;
+        for(int i=0;i<positions.size();i++){
+            mp[positions[i]]=i+1;
         }
 
-        sort(robots.begin(), robots.end());
+        sort(positions.begin(),positions.end());
+        stack<int>st;
 
-        vector<vector<int>> stack;
+        for(int i=0;i<positions.size();i++){
+            
+            if(!st.empty() && d[mp[st.top()]-1]=='R' && d[mp[positions[i]]-1]=='L' ){
 
-        for (auto& robot : robots) {
-            if (robot[2] == 'R' || stack.empty() || stack.back()[2] == 'L') {
-                stack.push_back(robot);
-                continue;
-            }
+              while(!st.empty() && d[mp[st.top()]-1]=='R' && d[mp[positions[i]]-1]=='L'){
+                if(h[mp[st.top()]-1]>h[mp[positions[i]]-1]){
+                    h[mp[st.top()]-1]--;
+                    h[mp[positions[i]]-1]=0;
+                    break;
 
-            if (robot[2] == 'L') {
-                bool add = true;
-                while (!stack.empty() && stack.back()[2] == 'R' && add) {
-                    int last_health = stack.back()[1];
-                    if (robot[1] > last_health) {
-                        stack.pop_back();
-                        robot[1] -= 1;
-                    } else if (robot[1] < last_health) {
-                        stack.back()[1] -= 1;
-                        add = false;
-                    } else {
-                        stack.pop_back();
-                        add = false;
-                    }
                 }
-
-                if (add) {
-                    stack.push_back(robot);
+                else if(h[mp[st.top()]-1]<h[mp[positions[i]]-1]){
+                    h[mp[st.top()]-1]=0;
+                    st.pop();
+                    h[mp[positions[i]]-1]--;
                 }
+                else{
+                    h[mp[st.top()]-1]=0;
+                    h[mp[positions[i]]-1]=0;
+                    st.pop();
+                    break;
+                }
+              }
+            }
+            else{
+                st.push(positions[i]);
             }
         }
-
-        vector<int> result;
-        sort(stack.begin(), stack.end(), [](vector<int>& a, vector<int>& b) {
-            return a[3] < b[3];
-        });
-
-        for (auto& robot : stack) {
-            result.push_back(robot[1]);
+        vector<int>ans;
+        for(int i=0;i<h.size();i++){
+            if(h[i]>0) ans.push_back(h[i]);
         }
+        return ans;
 
-        return result;
     }
 };
