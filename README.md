@@ -40,6 +40,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +99,9 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 <!---LeetCode Topics End-->
