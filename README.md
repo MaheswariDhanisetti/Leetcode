@@ -35,6 +35,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -104,4 +105,8 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
