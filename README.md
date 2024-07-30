@@ -96,12 +96,14 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -113,6 +115,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Matrix
 |  |
