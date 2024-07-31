@@ -36,6 +36,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -114,6 +115,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
