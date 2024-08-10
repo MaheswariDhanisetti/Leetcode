@@ -35,6 +35,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0921-spiral-matrix-iii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -89,6 +90,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -138,6 +140,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Divide and Conquer
 |  |
