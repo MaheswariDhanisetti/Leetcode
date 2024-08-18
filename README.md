@@ -35,6 +35,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0890-lemonade-change) |
@@ -72,6 +73,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
