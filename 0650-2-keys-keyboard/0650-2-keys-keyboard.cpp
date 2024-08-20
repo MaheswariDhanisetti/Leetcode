@@ -14,7 +14,7 @@ public:
         }
 
         int ans = 0;
-        for(int i = 2 ; i <= n * n ; i++){
+        for(int i = 2 ; i <=  n ; i++){
             while(n % i == 0 and primes[i]){
                 ans+=i;
                 n/=i;
