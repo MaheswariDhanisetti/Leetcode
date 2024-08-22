@@ -219,4 +219,8 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
