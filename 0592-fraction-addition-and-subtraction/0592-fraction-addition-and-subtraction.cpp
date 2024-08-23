@@ -4,27 +4,6 @@ public:
         
         int prevnum=0,prevden=1;
         
-        // while(i<expression.size() and expression[i]>='0' and expression[i]<='9'){
-           
-        //     int temp=0;
-
-        //     while(i<expression.size() and expression[i]>='0' and expression[i]<='9'){
-        //         temp=temp*10 + (expression[i]-'0');
-        //         i++;
-        //     }
-
-        //     i++;
-        //     prevnum=temp;
-        //     temp=0;
-
-        //     while(i<expression.size() and expression[i]>='0' and expression[i]<='9'){
-        //         temp=temp*10 + (expression[i]-'0');
-        //         i++;
-        //     }
-
-        //     prevden=temp;
-
-        // }
 
         if(expression[0]!='-') expression= '+'+expression;
         int i=0;
@@ -51,7 +30,7 @@ public:
                 }
                 
                 // cout<<temp<<endl;
-                i--;
+                // i--;
 
 
                 currden=temp;
@@ -80,7 +59,7 @@ public:
 
             }
 
-            i++;
+            else i++;
    
         }
 
