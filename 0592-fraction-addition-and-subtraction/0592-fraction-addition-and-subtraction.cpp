@@ -3,29 +3,31 @@ public:
     string fractionAddition(string expression) {
         
         int prevnum=0,prevden=1;
-        int i=0;
-
-        while(i<expression.size() and expression[i]>='0' and expression[i]<='9'){
+        
+        // while(i<expression.size() and expression[i]>='0' and expression[i]<='9'){
            
-            int temp=0;
+        //     int temp=0;
 
-            while(i<expression.size() and expression[i]>='0' and expression[i]<='9'){
-                temp=temp*10 + (expression[i]-'0');
-                i++;
-            }
+        //     while(i<expression.size() and expression[i]>='0' and expression[i]<='9'){
+        //         temp=temp*10 + (expression[i]-'0');
+        //         i++;
+        //     }
 
-            i++;
-            prevnum=temp;
-            temp=0;
+        //     i++;
+        //     prevnum=temp;
+        //     temp=0;
 
-            while(i<expression.size() and expression[i]>='0' and expression[i]<='9'){
-                temp=temp*10 + (expression[i]-'0');
-                i++;
-            }
+        //     while(i<expression.size() and expression[i]>='0' and expression[i]<='9'){
+        //         temp=temp*10 + (expression[i]-'0');
+        //         i++;
+        //     }
 
-            prevden=temp;
+        //     prevden=temp;
 
-        }
+        // }
+
+        if(expression[0]!='-') expression= '+'+expression;
+        int i=0;
 
         while(i<expression.size()){
             if(expression[i]=='-' || expression[i]=='+'){
