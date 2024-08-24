@@ -60,6 +60,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -89,6 +90,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -117,6 +119,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0273-integer-to-english-words](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
