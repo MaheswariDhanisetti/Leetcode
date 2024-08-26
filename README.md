@@ -134,6 +134,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -202,6 +203,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -238,5 +240,6 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
