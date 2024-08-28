@@ -202,6 +202,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -214,11 +215,13 @@ If you have any questions or suggestions, feel free to reach out:
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -244,6 +247,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
