@@ -127,6 +127,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0257-binary-tree-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1250-longest-common-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -160,6 +161,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0650-2-keys-keyboard](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1063-best-sightseeing-pair](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1250-longest-common-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
