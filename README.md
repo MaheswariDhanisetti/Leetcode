@@ -95,6 +95,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -163,6 +164,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0650-2-keys-keyboard](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -284,4 +286,8 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
