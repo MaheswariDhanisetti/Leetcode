@@ -1,28 +1,39 @@
 class Solution {
 public:
-    int chalkReplacer(vector<int>& chalk, int k) 
-    {
-        long allSum = 0;
+    int chalkReplacer(vector<int>& chalk, int k) {
         
-        // Calculate the total sum of all elements in the chalk array
-        for(auto val : chalk)
-            allSum += val;
-        
-        // Calculate the remainder of k when divided by allSum
-        // This determines how much chalk remains after several full cycles
-        long mod = k % allSum, n = chalk.size();
-        
-        // Iterate through the chalk array
-        for(int i = 0; i < n; i++)
-        {
-            // If the current student's chalk usage is more than the remaining chalk, return their index
-            if(chalk[i] > mod) return i;
-            
-            // Otherwise, subtract the current student's chalk usage from the remaining chalk
-            mod -= chalk[i];
+        long long totSum = accumulate(chalk.begin(),chalk.end(),0LL);
+
+        int rem = k%totSum;
+
+        //calculating prefix sum 
+        vector<long long>pre;
+        pre.push_back(chalk[0]);
+
+        for(int i=1;i<chalk.size();i++){
+            pre.push_back(pre.back()+chalk[i]);
         }
-        
-        // This line should never be reached since the problem guarantees a solution.
-        return mod;
+
+        //binary search approach to find the student who lacks of chalk in O(logn) time
+        int low=0,high=chalk.size()-1;
+
+        while(low<=high){
+
+            int mid = (low+high)/2;
+
+            // if preix of mid is greater than remaining chalks
+            if(pre[mid]>rem){
+                high=mid-1;
+            } 
+            else if(pre[mid]<rem){
+                low=mid+1;
+            }
+            else{
+                return mid+1;
+            }
+        }
+
+        return low;
+
     }
 };
