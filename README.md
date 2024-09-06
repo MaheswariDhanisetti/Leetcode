@@ -79,6 +79,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0014-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0257-binary-tree-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0392-is-subsequence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1250-longest-common-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -180,6 +182,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0119-pascals-triangle-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1063-best-sightseeing-pair](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1196-filling-bookcase-shelves) |
