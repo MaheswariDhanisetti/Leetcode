@@ -42,6 +42,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -184,6 +185,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0338-counting-bits](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0747-min-cost-climbing-stairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1250-longest-common-subsequence) |
