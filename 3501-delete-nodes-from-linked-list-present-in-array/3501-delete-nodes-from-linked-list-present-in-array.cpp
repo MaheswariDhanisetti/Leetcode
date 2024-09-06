@@ -18,9 +18,9 @@ public:
         }
 
         while(head!=nullptr && mp[head->val]>0){
-            ListNode* temp=head;
+            // ListNode* temp=head;
             head=head->next;
-            delete temp;
+            // delete temp;
         }
 
         ListNode* curr=head;
@@ -28,9 +28,9 @@ public:
         while(curr!=nullptr && curr->next!=nullptr){
 
             if(mp[curr->next->val]>0){
-                ListNode* temp=curr->next;
+                // ListNode* temp=curr->next;
                 curr->next=curr->next->next;
-                delete temp;
+                // delete temp;
             }
             else curr=curr->next;
         }
