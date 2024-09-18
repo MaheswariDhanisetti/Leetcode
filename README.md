@@ -40,6 +40,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0119-pascals-triangle-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0179-largest-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -96,6 +97,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0948-sort-an-array) |
@@ -149,6 +151,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0013-roman-to-integer](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0022-generate-parentheses) |
+| [0179-largest-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0392-is-subsequence) |
@@ -178,6 +181,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0890-lemonade-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
