@@ -71,6 +71,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3518-maximum-multiplication-score](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3518-maximum-multiplication-score) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0921-spiral-matrix-iii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -226,6 +228,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0948-sort-an-array) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -338,4 +341,16 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Graph
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
