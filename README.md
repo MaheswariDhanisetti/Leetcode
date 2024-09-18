@@ -70,6 +70,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3518-maximum-multiplication-score](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3518-maximum-multiplication-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1511-count-number-of-teams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3518-maximum-multiplication-score](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3518-maximum-multiplication-score) |
 ## Matrix
 |  |
 | ------- |
