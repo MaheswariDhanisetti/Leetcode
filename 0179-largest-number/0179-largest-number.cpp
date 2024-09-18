@@ -1,25 +1,13 @@
 class Solution {
 public:
 
-    static bool cmp(int a,int b){
-        
-        string s1=to_string(a);
-        string s2=to_string(b);
-
-        for(int i=0;i<min(s1.size(),s2.size());i++){
-            if(s1[i]>s2[i]) return true; 
-            else if(s1[i]<s2[i]) return false;
-        }
-
-        if(s1+s2 > s2+s1) return true;
-        return false;
-    }
-
     string largestNumber(vector<int>& nums) {
 
-        sort(nums.begin(),nums.end(),cmp);
+        sort(nums.begin(),nums.end(), [](int a,int b){
+            return to_string(a)+to_string(b) > to_string(b)+to_string(a);
+        });
 
-        for(int i:nums) cout<<i<<" ";
+        // for(int i:nums) cout<<i<<" ";
 
         string res="";
 
