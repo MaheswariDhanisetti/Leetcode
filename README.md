@@ -155,6 +155,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0014-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0392-is-subsequence) |
@@ -355,4 +356,16 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
