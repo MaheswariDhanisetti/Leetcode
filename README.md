@@ -94,6 +94,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -115,6 +116,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0013-roman-to-integer](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0539-minimum-time-difference) |
