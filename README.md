@@ -307,6 +307,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -319,6 +320,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0098-validate-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Backtracking
