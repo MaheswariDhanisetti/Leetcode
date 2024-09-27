@@ -44,6 +44,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0179-largest-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -213,6 +214,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0198-house-robber](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1063-best-sightseeing-pair) |
