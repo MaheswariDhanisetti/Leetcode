@@ -36,6 +36,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -163,6 +164,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0014-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -232,6 +234,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0079-word-search) |
 | [0921-spiral-matrix-iii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -343,6 +346,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Memoization
 |  |
