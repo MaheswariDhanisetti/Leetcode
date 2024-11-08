@@ -64,6 +64,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1741-sort-array-by-increasing-frequency](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1940-maximum-xor-for-each-query](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -331,6 +332,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0338-counting-bits](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0476-number-complement) |
+| [1940-maximum-xor-for-each-query](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Depth-First Search
 |  |
@@ -355,6 +357,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Prefix Sum
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Combinatorics
 |  |
