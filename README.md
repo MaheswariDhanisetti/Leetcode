@@ -75,6 +75,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2727-number-of-senior-citizens](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3518-maximum-multiplication-score](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3518-maximum-multiplication-score) |
@@ -279,6 +280,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Tree
 |  |
 | ------- |
@@ -334,6 +336,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0476-number-complement](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0476-number-complement) |
 | [1940-maximum-xor-for-each-query](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Depth-First Search
 |  |
 | ------- |
