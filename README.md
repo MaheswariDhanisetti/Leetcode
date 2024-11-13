@@ -72,6 +72,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2163-kth-distinct-string-in-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -99,6 +100,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0392-is-subsequence) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +109,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +120,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1333-sort-the-jumbled-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
