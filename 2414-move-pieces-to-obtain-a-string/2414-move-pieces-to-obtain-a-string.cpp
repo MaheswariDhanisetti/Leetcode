@@ -5,7 +5,7 @@ public:
         int i=0,j=0;
         int n=start.size();
 
-        while(i<n or j<n){
+        while(i<=n and j<=n){
             
 
             //ignoring spaces i.e., '_' in the strings
