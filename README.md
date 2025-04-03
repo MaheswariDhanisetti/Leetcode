@@ -56,6 +56,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0921-spiral-matrix-iii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0948-sort-an-array) |
 | [1063-best-sightseeing-pair](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -248,6 +249,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0063-unique-paths-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0079-word-search) |
 | [0921-spiral-matrix-iii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -356,6 +358,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0386-lexicographical-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -388,6 +391,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0322-coin-change) |
+| [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Graph
 |  |
@@ -409,4 +413,8 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0214-shortest-palindrome) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
