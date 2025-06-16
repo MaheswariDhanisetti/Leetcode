@@ -397,10 +397,12 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0322-coin-change](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0322-coin-change) |
 | [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Graph
 |  |
 | ------- |
+| [2671-shortest-cycle-in-a-graph](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
