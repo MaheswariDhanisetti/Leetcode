@@ -90,6 +90,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0013-roman-to-integer](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0906-walking-robot-simulation](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -180,6 +181,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0049-group-anagrams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -398,6 +400,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0322-coin-change) |
 | [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
