@@ -33,6 +33,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0053-maximum-subarray) |
@@ -104,6 +105,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0392-is-subsequence) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -120,6 +122,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
