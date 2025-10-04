@@ -35,6 +35,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0015-3sum](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -139,6 +140,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0070-climbing-stairs) |
@@ -257,6 +259,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0079-word-search) |
 | [0921-spiral-matrix-iii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0921-spiral-matrix-iii) |
