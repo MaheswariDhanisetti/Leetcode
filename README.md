@@ -87,6 +87,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [3518-maximum-multiplication-score](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3518-maximum-multiplication-score) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2155-find-missing-observations](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Recursion
 |  |
 | ------- |
@@ -396,6 +398,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |
