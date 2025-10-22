@@ -223,6 +223,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0735-asteroid-collision](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0937-online-stock-span](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -338,6 +339,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -358,6 +360,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0937-online-stock-span) |
 ## Database
 |  |
 | ------- |
@@ -455,4 +458,8 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
