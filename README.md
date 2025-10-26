@@ -76,6 +76,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2132-convert-1d-array-into-2d-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2169-simple-bank-system) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -103,6 +104,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2169-simple-bank-system) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -172,6 +174,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2155-find-missing-observations) |
+| [2169-simple-bank-system](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2169-simple-bank-system) |
 | [2645-pass-the-pillow](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -340,6 +343,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0937-online-stock-span) |
+| [2169-simple-bank-system](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2169-simple-bank-system) |
 ## Binary Search Tree
 |  |
 | ------- |
