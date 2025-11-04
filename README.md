@@ -90,6 +90,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3518-maximum-multiplication-score](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3518-maximum-multiplication-score) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
@@ -110,6 +111,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +303,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0948-sort-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0948-sort-an-array) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -330,6 +333,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Tree
 |  |
