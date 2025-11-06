@@ -93,6 +93,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3863-power-grid-maintenance](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -304,6 +306,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -405,6 +408,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
+| [3863-power-grid-maintenance](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -444,11 +448,13 @@ If you have any questions or suggestions, feel free to reach out:
 | [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [2671-shortest-cycle-in-a-graph](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -470,8 +476,13 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
+| [3863-power-grid-maintenance](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0937-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
