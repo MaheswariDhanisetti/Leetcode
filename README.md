@@ -164,6 +164,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1642-water-bottles](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2155-find-missing-observations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2645-pass-the-pillow](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -180,6 +181,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2132-convert-1d-array-into-2d-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2155-find-missing-observations) |
 | [2169-simple-bank-system](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2645-pass-the-pillow](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
