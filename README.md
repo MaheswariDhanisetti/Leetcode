@@ -227,6 +227,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
 | ------- |
@@ -252,6 +253,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2618-maximize-the-minimum-powered-city](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
@@ -328,6 +330,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0948-sort-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Indexed Tree
 |  |
 | ------- |
