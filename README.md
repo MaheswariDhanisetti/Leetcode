@@ -106,6 +106,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0920-uncommon-words-from-two-sentences](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2169-simple-bank-system) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -220,6 +221,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1720-crawler-log-folder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -400,6 +402,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0338-counting-bits](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0476-number-complement) |
 | [1940-maximum-xor-for-each-query](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Depth-First Search
@@ -430,6 +433,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
