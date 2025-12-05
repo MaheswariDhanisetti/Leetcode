@@ -89,6 +89,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -173,6 +174,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2288-count-operations-to-obtain-zero](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2645-pass-the-pillow](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2645-pass-the-pillow) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
@@ -446,6 +448,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
