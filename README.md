@@ -169,6 +169,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0592-fraction-addition-and-subtraction](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1642-water-bottles](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2155-find-missing-observations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -508,4 +509,8 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3863-power-grid-maintenance) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
