@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal">4138. Minimum Deletion Cost to Make All Characters Equal</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> of length <code>n</code> and an integer array <code>cost</code> of the same length, where <code>cost[i]</code> is the cost to <strong>delete</strong> the <code>i<sup>th</sup></code> character of <code>s</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal">3784. Minimum Deletion Cost to Make All Characters Equal</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> of length <code>n</code> and an integer array <code>cost</code> of the same length, where <code>cost[i]</code> is the cost to <strong>delete</strong> the <code>i<sup>th</sup></code> character of <code>s</code>.</p>
 
 <p>You may delete any number of characters from <code>s</code> (possibly none), such that the resulting string is <strong>non-empty</strong> and consists of <strong>equal</strong> characters.</p>
 
