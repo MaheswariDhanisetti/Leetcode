@@ -1,40 +1,29 @@
 class Solution {
 public:
+    vector<vector<int>> dp;
 
-    bool solve(string s , string p , int i , int j,int cnt)
-    {
-        if(i >= s.size()) return cnt==0;
-        if(j>=p.size()) return i>=s.size();
+    bool solve(string &s, string &p, int i, int j) {
+        if (i == s.size() && j == p.size()) return true;
+        if (j == p.size()) return false;
 
+        if (dp[i][j] != -1) return dp[i][j];
 
         bool res = false;
 
-        if(p[j]=='*')
-        {
-            for(int k = i;k<=s.size();k++)
-            {
-                res |= solve(s,p ,k,j+1,cnt);
-            }
+        if (p[j] == '*') {
+            // match empty OR match one char
+            res = solve(s, p, i, j + 1) || 
+                  (i < s.size() && solve(s, p, i + 1, j));
         }
-        else if(p[j]=='?')
-        {
-            res |= solve(s,p,i+1,j+1,cnt-1);
-        }
-        else{
-            if(s[i]==p[j]) res |= solve(s,p,i+1,j+1,cnt-1);
+        else if (i < s.size() && (p[j] == '?' || p[j] == s[i])) {
+            res = solve(s, p, i + 1, j + 1);
         }
 
-        return res;
+        return dp[i][j] = res;
     }
+
     bool isMatch(string s, string p) {
-
-        int cnt = 0;
-
-        for(int j =0;j<p.size();j++)
-        {
-            if(p[j]!='*') cnt++;
-        }
-        return solve(s , p , 0, 0,cnt);
-        
+        dp.assign(s.size() + 1, vector<int>(p.size() + 1, -1));
+        return solve(s, p, 0, 0);
     }
 };
