@@ -200,6 +200,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0044-wildcard-matching) |
 | [0273-integer-to-english-words](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -214,6 +215,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0014-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0091-decode-ways) |
@@ -258,6 +260,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0890-lemonade-change) |
@@ -274,6 +277,7 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0063-unique-paths-ii) |
