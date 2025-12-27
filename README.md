@@ -64,6 +64,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1333-sort-the-jumbled-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -297,6 +298,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1196-filling-bookcase-shelves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -313,6 +315,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0794-swim-in-rising-water](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0921-spiral-matrix-iii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
