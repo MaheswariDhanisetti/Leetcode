@@ -68,6 +68,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1333-sort-the-jumbled-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -152,6 +153,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0948-sort-an-array](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0948-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -300,6 +302,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1262-greatest-sum-divisible-by-three](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
