@@ -39,6 +39,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0049-group-anagrams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0118-pascals-triangle) |
@@ -166,6 +167,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0013-roman-to-integer](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0273-integer-to-english-words) |
