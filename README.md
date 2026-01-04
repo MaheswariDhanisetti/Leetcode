@@ -67,6 +67,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [1262-greatest-sum-divisible-by-three](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1333-sort-the-jumbled-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1390-four-divisors](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1390-four-divisors) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -174,6 +175,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0539-minimum-time-difference](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [1390-four-divisors](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1390-four-divisors) |
 | [1642-water-bottles](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
