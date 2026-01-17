@@ -91,6 +91,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2699-count-the-number-of-fair-pairs](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2846-robot-collisions) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -182,6 +183,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [2155-find-missing-observations](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2155-find-missing-observations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2645-pass-the-pillow](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/2645-pass-the-pillow) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -530,4 +532,8 @@ If you have any questions or suggestions, feel free to reach out:
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1925-count-square-sum-triples) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
