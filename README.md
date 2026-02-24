@@ -388,6 +388,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Design
 |  |
 | ------- |
@@ -410,6 +411,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0257-binary-tree-paths](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Data Stream
 |  |
 | ------- |
@@ -448,6 +450,7 @@ If you have any questions or suggestions, feel free to reach out:
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1073-number-of-enclaves](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [3863-power-grid-maintenance](https://github.com/MaheswariDhanisetti/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
